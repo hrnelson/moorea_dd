@@ -1,6 +1,8 @@
 # moorea_dd
 *Density-dependence mediates coral community structure in Mo’orea, French Polynesia*
 
+[![DOI](https://zenodo.org/badge/118432299.svg)](https://zenodo.org/badge/latestdoi/118432299)
+
 **Authors:** Edmunds, P. J., L. Bramanti, and H. R. Nelson
 
 **Description:** This repository provides data and code to perform the simulation, analyze the results, and create the corresponding figures for the mensurative test in the above manuscript.
